@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.otasi {
+  background-color: red;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  justify-content: space-between;
+  align-items: center;
+}
+.bolasi {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+.salom {
+  color: blue;
+  display: flex;
+  align-items: center;
+}
